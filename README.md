@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning industry leading tools like Sentinel and Microsoft Defender XDR and consulting clients to become secure...
 - 💞️ I’m looking to collaborate on open source cybersecurity projects...
 - 📫 How to reach me
-          My email:pranayrao28@gmail.com
-       linkedin:https://www.linkedin.com/in/pranay-rao-pinninty-4b60b8190/...
+          My email:pranayraopinninty0@gmail.com
+       linkedin:https://www.linkedin.com/in/pranayrao28/
 
 <!---
 pranayrao28/pranayrao28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
